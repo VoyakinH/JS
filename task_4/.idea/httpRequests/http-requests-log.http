@@ -1,0 +1,222 @@
+GET http://localhost:5015/make_arr?a=130&b=568&c=39
+Accept: application/json
+
+<> 2020-10-22T070240.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=451&b=507&c=13
+Accept: application/json
+
+<> 2020-10-22T070222-1.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=157&b=562&c=77
+Accept: application/json
+
+<> 2020-10-22T070222.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=656&b=212&c=294
+Accept: application/json
+
+<> 2020-10-22T070221-1.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=266&b=182&c=386
+Accept: application/json
+
+<> 2020-10-22T070221.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=560&b=564&c=831
+Accept: application/json
+
+<> 2020-10-22T070220-1.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=817&b=76&c=25
+Accept: application/json
+
+<> 2020-10-22T070220.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=830&b=367&c=463
+Accept: application/json
+
+<> 2020-10-22T070219-1.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=959&b=215&c=716
+Accept: application/json
+
+<> 2020-10-22T070219.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=91&b=349&c=425
+Accept: application/json
+
+<> 2020-10-22T070218.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=990&b=598&c=144
+Accept: application/json
+
+<> 2020-10-22T070217.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=547&b=371&c=764
+Accept: application/json
+
+<> 2020-10-22T070216.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=154&b=920&c=368
+Accept: application/json
+
+<> 2020-10-22T070150-1.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=306&b=54&c=344
+Accept: application/json
+
+<> 2020-10-22T070150.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=500&b=472&c=573
+Accept: application/json
+
+<> 2020-10-22T070149.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=675&b=282&c=252
+Accept: application/json
+
+<> 2020-10-22T070148.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=78&b=243&c=163
+Accept: application/json
+
+<> 2020-10-22T070147-1.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=576&b=189&c=871
+Accept: application/json
+
+<> 2020-10-22T070147.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=34&b=616&c=507
+Accept: application/json
+
+<> 2020-10-22T070140.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=423&b=206&c=651
+Accept: application/json
+
+<> 2020-10-22T070139.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=326&b=11&c=97
+Accept: application/json
+
+<> 2020-10-22T070137.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=524&b=424&c=84
+Accept: application/json
+
+<> 2020-10-22T070129.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=136&b=706&c=582
+Accept: application/json
+
+<> 2020-10-22T070009.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=7&b=814&c=677
+Accept: application/json
+
+<> 2020-10-22T070005.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=647&b=662&c=959
+Accept: application/json
+
+<> 2020-10-22T070002.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=873&b=619&c=562
+Accept: application/json
+
+<> 2020-10-22T065957.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a=141&b=428&c=458
+Accept: application/json
+
+<> 2020-10-22T065943.200.txt
+
+###
+
+GET http://localhost:5015/make_arr?a={{$a}}&b={{$b}}&c={{$c}}
+Accept: application/json
+
+<> 2020-10-22T065825.200.txt
+
+###
+
+GET http://localhost:5015/make_arr
+Accept: application/json
+
+<> 2020-10-22T065611.200.txt
+
+###
+
+GET http://localhost:5015/make_arr
+Accept: application/json
+
+<> 2020-10-22T065545.200.txt
+
+###
+
+GET http://localhost:5015
+Accept: application/json
+
+<> 2020-10-22T065527.404.html
+
+###
+
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+
+###
+

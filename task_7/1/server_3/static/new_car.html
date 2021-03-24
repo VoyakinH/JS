@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>CREATION</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<a href="http://localhost:5000/new_car.html" style="color:white">СОЗДАНИЕ НОВОГО ТИПА МАШИНЫ</a> <br><br>
+<a href="http://localhost:5000/car_cost.html" style="color:white">ПОЛУЧЕНИЕ ИНФОРМАЦИИ О СТОИМОСТИ МАШИНЫ ПО ЕЁ НАЗВАНИЮ</a><br><br>
+<a href="http://localhost:5000/new_storage.html" style="color:white">СОЗДАНИЕ НОВОГО СКЛАДА С НАХОДЯЩИМИСЯ В НЁМ МАШИНАМИ</a><br><br>
+<a href="http://localhost:5000/storage_cars.html" style="color:white">ПОЛУЧЕНИЕ ИНФОРМАЦИИ О МАШИНАХ НА СКЛАДЕ ПО НАЗВАНИЮ СКЛАДА</a>
+
+<br><br><br><br><br>
+
+<h1>СОЗДАНИЕ НОВОГО ТИПА МАШИНЫ</h1>
+
+<p>
+    <span>НАЗВАНИЕ МАШИНЫ</span><br>
+    <input id="car_name" type="text" spellcheck="false" autocomplete="off">
+</p>
+
+<p>
+    <span>СТОИМОСТЬ</span><br>
+    <input id="cost" type="text" spellcheck="false" autocomplete="off">
+</p>
+
+<br>
+
+<div id="new-car-send-btn" class="btn-class">ОТПРАВИТЬ</div>
+
+<br>
+<br>
+
+<h1 id="result-label"></h1>
+
+<script src="/new_car_code.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+[
+  {"login": "aleksei_voyakin",
+    "password": "12345",
+    "hobby": "JS",
+    "age": "19"
+  },
+  {"login": "anna_voyakina",
+    "password": "54321",
+    "hobby": "Cooking",
+    "age": "39"
+  },
+  {"login": "andrew_piksaev",
+    "password": "00000",
+    "hobby": "PHP",
+    "age": "19"
+  },
+  {"login": "mikhail_popov",
+    "password": "4224",
+    "hobby": "Nothing",
+    "age": "20"
+  }
+]

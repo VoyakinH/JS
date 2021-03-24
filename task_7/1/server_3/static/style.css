@@ -1,0 +1,14 @@
+body {
+    padding: 40px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+.btn-class {
+    padding: 7px;
+    background: blueviolet;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>GAMES</title>
+    <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<h2>
+    {{descriptionValue}}
+</h2>
+<br>
+
+{{#each gamesArray}}
+    <div style="background: darkslateblue; margin-bottom: 15px; padding: 8px;">
+        <h3>{{this.name}}</h3>
+        {{this.desc}}
+        <br><br>
+        AGE LIMIT: {{this.age}}
+    </div>
+{{/each}}
+
+</body>
+</html>

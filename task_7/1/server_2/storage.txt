@@ -1,0 +1,1 @@
+[{"storage_name":"BMW store","cars":["BMW","AUDI","LADA"]},{"storage_name":"Moscow","cars":["Kia","Hyundai"]},{"storage_name":"TESLA store","cars":["TESLA-S","TESLA-X","TESLA-Y","TESLA-3"]}]

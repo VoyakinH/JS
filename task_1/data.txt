@@ -1,0 +1,5 @@
+aaaa 3
+bbbb 1
+cccc 9
+daaa 2
+asaa -1
